@@ -1,7 +1,7 @@
 # Hi I'm Leeroy
 18 years old, A-Level Computer Science, Zimbabwe
 Learning web development 
-Goal: CS degree at Uni 2026
+Goal: CS degree at Uni 2027
 This is my first GitHub project
 
 ## Projects
